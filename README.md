@@ -6,7 +6,7 @@
 
 Repositorio para subir los retos en la clase de nuevas tecnologias
 
-##Colaboradores
+## Colaboradores
 
 - Victor Alfonso Suárez Aguirre
 - Anderson Yepes
